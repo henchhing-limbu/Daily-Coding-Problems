@@ -28,5 +28,3 @@ print(get_num_of_decoded_messages('111', mapping))
 print(get_num_of_decoded_messages('1021', mapping))
 print(get_num_of_decoded_messages('1221', mapping))
 
-# TODO(henxing): Provide dynmaic programming implementation of this method.
-# TODO(henxing): Memoization could be used here.
